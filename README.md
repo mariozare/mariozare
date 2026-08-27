@@ -1,43 +1,50 @@
-# Hi, I'm Mario Zare 👋
+# Mario Zare
 
-### Cybersecurity Student | Aspiring Penetration Tester
+## Cybersecurity | Penetration Testing
 
-I'm currently starting my journey in Cybersecurity, with a focus on building practical skills in:
+I'm a Cybersecurity student focused on developing practical skills in
+web application security, penetration testing, networking, and Linux.
 
-- Web Security
-- Networking
-- Linux
+### 🔐 Focus Areas
+
+- Web Application Security
 - Penetration Testing
+- Network Security
+- Linux
+- HTTP / HTTPS
 - Security Fundamentals
 
-### 🎯 Current Learning
+### 🧪 Hands-On Practice
 
-- Cybersecurity Diploma
-- TryHackMe Labs
-- Practical Security Projects
-- Linux & Networking
-- Web Application Security
+I learn by building, testing, and documenting.
 
-### 🛠️ Skills
+- Cybersecurity diploma — 150 accredited hours
+- Practical security projects
+- TryHackMe hands-on labs
+- Internship experience
+- Security-focused technical exercises
 
-Currently developing skills in:
+### 🛠️ Technologies & Tools
 
-- Linux
-- Networking
-- HTTP/HTTPS
-- Burp Suite
-- Nmap
-- Python
-- Web Security
+Linux · Burp Suite · Nmap · Python · Git · HTTP/HTTPS
 
-### 📚 My Goal
+### 📂 What You'll Find Here
 
-To build strong practical cybersecurity skills and become a professional penetration tester.
+This profile documents my progression through:
 
-### 📈 Learning Journey
+- Security labs
+- Practical projects
+- Technical notes
+- Security assessments
+- Lessons learned
 
-I'm documenting my progress, projects, labs, and practical experience here.
+Each project is documented with its objective, methodology, findings, and lessons learned.
 
----
+### 🎯 Career Goal
 
-📫 Email: mario.zare.security@gmail.com
+My goal is to develop into a professional penetration tester
+and contribute to real-world security teams.
+
+### 📫 Contact
+
+Email: mario.zare.security@gmail.com
