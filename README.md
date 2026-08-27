@@ -227,15 +227,20 @@ Utilities
 
 ---
 
-<h1 align="center">📫 CONNECT</h1>
+<h1 align="center">📫 CONNECT WITH ME</h1>
 
 <div align="center">
 
-<a href="mailto:mario.zare.security@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/> </a>
+<a href="mailto:mario.zare.security@gmail.com">
 
-</div>
+<img src="https://img.shields.io/badge/mario.zare.security%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=050816&label=EMAIL"/>
 
-<br>
+</a>
+
+<br><br>
+
+mario.zare.security@gmail.com
+
 </div>
 
 <br>
