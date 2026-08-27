@@ -1,158 +1,223 @@
-╔══════════════════════════════════════════════╗
-║                                              ║
-║  🌐 Web Security Labs                       ║
-║                                              ║
-║  🛡 Penetration Testing Projects             ║
-║                                              ║
-║  🔎 Vulnerability Assessments                ║
-║                                              ║
-║  🧪 Security Research                        ║
-║                                              ║
-║  📝 Technical Write-ups                      ║
-║                                              ║
-║  🐧 Linux Security Labs                      ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-
-</div>
-
-Every project is documented around:
-
 <div align="center">
 
-🎯 Objective → 🔎 Recon → 📡 Enumeration → 🧪 Testing → 🔍 Findings → 🛠 Remediation
+# <span style="color:#38BDF8;">⚡ Mario Zare</span>
 
-</div>
+### <span style="color:#A78BFA;">Cybersecurity Student</span>
 
----
-
-<h2 align="center">📂 REPOSITORIES</h2>
-
-<div align="center">
-
-| Repository Type     | What you'll find                              |
-| ------------------- | --------------------------------------------- |
-| 🌐 Web Security | Web vulnerabilities, HTTP, Burp Suite & OWASP |
-| 🛡 Pentesting  | Reconnaissance, enumeration & assessments     |
-| 🐧 Linux        | Linux commands, labs & security exercises     |
-| 🌐 Networking   | TCP/IP, protocols, Nmap & network analysis    |
-| 🐍 Python       | Security-focused scripts & automation         |
-| 📝 Write-ups    | Labs, findings & lessons learned              |
-
-</div>
-
----
-
-<h2 align="center">📈 LEARNING JOURNEY</h2>
-
-<div align="center">
-
-                 ┌───────────────┐
-                 │   NETWORKING  │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     LINUX     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │ WEB FUNDAMENTALS│
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  WEB SECURITY │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  PENTESTING   │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │ ADVANCED SEC  │
-                 └───────────────┘
-
-</div>
-
----
-
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MarioZare&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioZare&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
-
-</div>
+**Web Application Security • Penetration Testing • Networking • Linux**
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioZare&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=94A3B8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=80&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Understand+%E2%86%92+Practice+%E2%86%92+Test+%E2%86%92+Analyze+%E2%86%92+Secure"/>
 
 </div>
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+I'm a <span style="color:#38BDF8;"><b>Cybersecurity student</b></span> focused on developing practical security skills.
+
+I learn through <span style="color:#34D399;"><b>hands-on labs, practical projects, security research, and continuous experimentation.</b></span>
+
+<br><br>
+
+🌐 <span style="color:#38BDF8;"><b>Web Application Security</b></span>
+🛡️ <span style="color:#A78BFA;"><b>Penetration Testing</b></span>
+🔎 <span style="color:#34D399;"><b>Vulnerability Assessment</b></span>
+🐧 <span style="color:#F8FAFC;"><b>Linux & Networking</b></span>
 
 </div>
 
 ---
 
-<h2 align="center">🚀 CAREER GOAL</h2>
-
 <div align="center">
 
-### 🛡 Penetration Tester
+<table>
 
-### 🌐 Application Security Specialist
+<tr>
+
+<td align="center" width="33%">
+
+### <span style="color:#38BDF8;">🌐</span>
+
+<span style="color:#38BDF8;"><b>WEB SECURITY</b></span>
+
+<br><br>
+
+OWASP
+HTTP / HTTPS
+Burp Suite
+Web Vulnerabilities
+
+</td>
+
+<td align="center" width="33%">
+
+### <span style="color:#A78BFA;">🛡️</span>
+
+<span style="color:#A78BFA;"><b>PENETRATION TESTING</b></span>
+
+<br><br>
+
+Reconnaissance
+Enumeration
+Security Testing
+Assessments
+
+</td>
+
+<td align="center" width="33%">
+
+### <span style="color:#34D399;">🔎</span>
+
+<span style="color:#34D399;"><b>SECURITY RESEARCH</b></span>
+
+<br><br>
+
+Vulnerability Analysis
+Research
+Technical Notes
+Write-ups
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### <span style="color:#F8FAFC;">🐧</span>
+
+<span style="color:#F8FAFC;"><b>LINUX SECURITY</b></span>
+
+<br><br>
+
+Linux CLI
+Bash
+Permissions
+Security Labs
+
+</td>
+
+<td align="center">
+
+### <span style="color:#38BDF8;">🌐</span>
+
+<span style="color:#38BDF8;"><b>NETWORK SECURITY</b></span>
+
+<br><br>
+
+TCP/IP
+Nmap
+Protocols
+Network Analysis
+
+</td>
+
+<td align="center">
+
+### <span style="color:#A78BFA;">🐍</span>
+
+<span style="color:#A78BFA;"><b>SECURITY AUTOMATION</b></span>
+
+<br><br>
+
+Python
+Security Scripts
+Automation
+Utilities
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
-My goal is to become a professional Penetration Tester / Application Security Specialist and contribute to real-world security teams.
+---
 
-I'm building my skills through:
+<div align="center">
 
-Hands-on Labs • Practical Projects • Security Research • Technical Documentation • Continuous Learning
+### <span style="color:#38BDF8;">🧪 MY APPROACH</span>
+
+<br>
+
+<span style="color:#38BDF8;"><b>Discover</b></span>
+→ <span style="color:#A78BFA;"><b>Understand</b></span>
+→ <span style="color:#34D399;"><b>Test</b></span>
+→ <span style="color:#F8FAFC;"><b>Analyze</b></span>
+→ <span style="color:#38BDF8;"><b>Document</b></span>
+→ <span style="color:#34D399;"><b>Secure</b></span>
+
+</div>
 
 ---
 
-<h2 align="center">📫 CONNECT WITH ME</h2>
+<h2 align="center"><span style="color:#38BDF8;">📂 REPOSITORIES</span></h2>
 
+<div align="center">
 
-<h2 align="center">
-<span style="color:#38BDF8;">📫 CONNECT WITH ME</span>
-</h2>
+|      Repository     | Focus                                              |
+| :-----------------: | -------------------------------------------------- |
+| 🌐 **Web Security** | Web vulnerabilities, HTTP, OWASP & Burp Suite      |
+|  🛡️ **Pentesting** | Reconnaissance, enumeration & security assessments |
+|     🐧 **Linux**    | Linux fundamentals & security labs                 |
+|  🌐 **Networking**  | TCP/IP, protocols, Nmap & analysis                 |
+|    🐍 **Python**    | Security scripts & automation                      |
+|   📝 **Write-ups**  | Labs, research & lessons learned                   |
+
+</div>
+
+---
+
+<div align="center">
+
+I'm working toward becoming a professional
+
+### <span style="color:#38BDF8;">🛡️ Penetration Tester</span>
+
+### <span style="color:#A78BFA;">🌐 Application Security Specialist</span>
+
+<br>
+
+with a focus on **identifying, understanding, and reducing security risks.**
+
+</div>
+
+---
+
+<h2 align="center"><span style="color:#38BDF8;">📫 CONNECT</span></h2>
 
 <div align="center">
 
 <a href="mailto:mario.zare.security@gmail.com">
 
-<big>
-<span style="color:#38BDF8;">
-<b>📧 mario.zare.security@gmail.com</b>
-</span>
-</big>
+<img src="https://img.shields.io/badge/EMAIL-mario.zare.security%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=020617"/>
 
 </a>
 
 <br><br>
 
-<a href="mailto:mario.zare.security@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-38BDF8?style=for-the-badge&logo=gmail&logoColor=020617&labelColor=020617"/>
-</a>
-
-<br><br>
-
-<span style="color:#94A3B8;">
-Cybersecurity discussions • Collaboration • Professional opportunities
-</span>
+<span style="color:#F8FAFC;">[mario.zare.security@gmail.com](mailto:mario.zare.security@gmail.com)</span>
 
 </div>
 
+---
+
+<div align="center">
+
+### <span style="color:#38BDF8;">🔐 Think Like an Attacker.</span>
+
+### <span style="color:#A78BFA;">🛡️ Protect Like a Defender.</span>
+
+<br>
+
+<span style="color:#34D399;">`Learn`</span>
+• <span style="color:#38BDF8;">`Explore`</span>
+• <span style="color:#A78BFA;">`Test`</span>
+• <span style="color:#34D399;">`Secure`</span>
+
+</div>
