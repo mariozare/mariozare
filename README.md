@@ -232,7 +232,7 @@ Utilities
 <div align="center">
 
 <a href="mailto:mario.zare.security@gmail.com">
-?style=for-the-badge&logo=gmail&logoColor=000000"/>
+
 </a>
 
 </div>
