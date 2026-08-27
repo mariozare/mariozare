@@ -28,7 +28,7 @@ I'm a **Cybersecurity student** focused on developing practical security skills 
 
 <br>
 
-My main areas of interest are:
+<h2>My main areas of interest are: </h2>
 
 `Web Security` • `Pentesting` • `Vulnerability Assessment` • `Linux` • `Networking`
 
