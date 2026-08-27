@@ -18,7 +18,7 @@
 
 ---
 
-<h4 align="center">👨‍💻 ABOUT ME</h4>
+<h1 align="center">👨‍💻 ABOUT ME</h1>
 
 <div align="center">
 
@@ -36,7 +36,7 @@ My main areas of interest are:
 
 ---
 
-<h4 align="center">⚔️ SECURITY FOCUS</h4>
+<h1 align="center">⚔️ SECURITY FOCUS</h1>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ My main areas of interest are:
 
 ---
 
-<h4 align="center">🛠 TOOLKIT</h4>
+<h1 align="center">🛠 TOOLKIT</h1>
 
 <div align="center">
 
@@ -77,7 +77,7 @@ My main areas of interest are:
 
 ---
 
-<h4 align="center">🔨 WHAT I'M BUILDING</h4>
+<h1 align="center">🔨 WHAT I'M BUILDING</h1>
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Utilities
 
 ---
 
-<h4 align="center">📂 REPOSITORIES</h4>
+<h1 align="center">📂 REPOSITORIES</h1>
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Utilities
 
 ---
 
-<h4 align="center">📊 GITHUB ACTIVITY</h4>
+<h1 align="center">📊 GITHUB ACTIVITY</h1>
 
 <div align="center">
 
@@ -211,7 +211,7 @@ Utilities
 
 ---
 
-<h4 align="center">🚀 CAREER GOAL</h4>
+<h1 align="center">🚀 CAREER GOAL</h1>
 
 <div align="center">
 
@@ -227,7 +227,7 @@ Utilities
 
 ---
 
-<h4 align="center">📫 CONNECT</h4>
+<h1 align="center">📫 CONNECT</h1>
 
 <div align="center">
 
