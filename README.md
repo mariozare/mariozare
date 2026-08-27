@@ -231,10 +231,11 @@ Utilities
 
 <div align="center">
 
-<a href="mailto:mario.zare.security@gmail.com">
+<a href="mailto:mario.zare.security@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/> </a>
 
-</a>
+</div>
 
+<br>
 </div>
 
 <br>
