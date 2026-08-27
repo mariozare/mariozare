@@ -1,23 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0EA5E9,100:7C3AED&height=180&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00E5FF,100:7C3AED&height=180&section=header&text=Mario%20Zare&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+
+### <span style="color:#00E5FF;">`Cybersecurity Student`</span>
+
+**Web Application Security • Penetration Testing • Networking • Linux**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=180&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&height=70&lines=Mario+Zare"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Web+Application+Security;Penetration+Testing;Vulnerability+Assessment;Linux+%26+Networking;Security+Research" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=70&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=Cybersecurity+Student;Web+Application+Security;Penetration+Testing;Vulnerability+Assessment;Linux+%26+Networking"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WEB_SECURITY-00E5FF?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/PENTESTING-7C3AED?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/LINUX-00E5FF?style=for-the-badge&labelColor=050816"/>
-<img src="https://img.shields.io/badge/NETWORKING-7C3AED?style=for-the-badge&labelColor=050816"/>
-
-<br><br>
 
 `Understand` → `Practice` → `Test` → `Analyze` → `Secure`
 
@@ -29,18 +22,15 @@
 
 <div align="center">
 
-I'm a **Cybersecurity student** focused on developing practical security skills.
+I'm a **Cybersecurity student** focused on developing practical security skills through:
+
+**Hands-on Labs • Practical Projects • Security Research • Continuous Learning**
 
 <br>
 
-I learn through **hands-on labs, practical projects, security research, and continuous experimentation.**
+My main areas of interest are:
 
-<br><br>
-
-🌐 **Web Application Security**
-🛡️ **Penetration Testing**
-🔎 **Vulnerability Assessment**
-🐧 **Linux & Networking**
+`Web Security` • `Pentesting` • `Vulnerability Assessment` • `Linux` • `Networking`
 
 </div>
 
@@ -50,18 +40,38 @@ I learn through **hands-on labs, practical projects, security research, and cont
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OWASP-00E5FF?style=for-the-badge&logo=owasp&logoColor=050816"/>
-<img src="https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/NMAP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WIRESHARK-00E5FF?style=for-the-badge&logo=wireshark&logoColor=050816"/>
-<img src="https://img.shields.io/badge/LINUX-7C3AED?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Web%20Application%20Security-00E5FF?style=for-the-badge&logo=owasp&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Penetration%20Testing-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Networking-00E5FF?style=for-the-badge&logo=cisco&logoColor=000000"/>
 
-<br><br>
+</div>
+
+---
+
+<h2 align="center">🛠️ TOOLKIT</h2>
+
+<div align="center">
+
+### 🔐 Security
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Nmap-00E5FF?style=for-the-badge&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Wireshark-7C3AED?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"/>
+
+### 🌐 Web & Networking
 
 <img src="https://img.shields.io/badge/HTTP%2FHTTPS-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DNS-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PYTHON-7C3AED?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OWASP-7C3AED?style=for-the-badge"/>
+
+### 🐍 Programming
+
+<img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00E5FF?style=for-the-badge&logo=cplusplus&logoColor=000000"/>
 
 </div>
 
@@ -78,9 +88,7 @@ I learn through **hands-on labs, practical projects, security research, and cont
 
 ### 🌐
 
-<b>WEB SECURITY</b>
-
-<br><br>
+**Web Security Labs**
 
 OWASP
 HTTP / HTTPS
@@ -93,9 +101,7 @@ Web Vulnerabilities
 
 ### 🛡️
 
-<b>PENETRATION TESTING</b>
-
-<br><br>
+**Pentesting Projects**
 
 Reconnaissance
 Enumeration
@@ -108,9 +114,7 @@ Assessments
 
 ### 🔎
 
-<b>SECURITY RESEARCH</b>
-
-<br><br>
+**Security Research**
 
 Vulnerability Analysis
 Research
@@ -127,9 +131,7 @@ Write-ups
 
 ### 🐧
 
-<b>LINUX SECURITY</b>
-
-<br><br>
+**Linux Security**
 
 Linux CLI
 Bash
@@ -142,9 +144,7 @@ Security Labs
 
 ### 🌐
 
-<b>NETWORK SECURITY</b>
-
-<br><br>
+**Network Security**
 
 TCP/IP
 Nmap
@@ -157,9 +157,7 @@ Network Analysis
 
 ### 🐍
 
-<b>SECURITY AUTOMATION</b>
-
-<br><br>
+**Security Automation**
 
 Python
 Security Scripts
@@ -175,30 +173,18 @@ Utilities
 
 ---
 
-<div align="center">
-
-### 🧪 MY APPROACH
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=100&pause=700&color=00E5FF&center=true&vCenter=true&width=800&height=40&lines=Discover+%E2%86%92+Understand+%E2%86%92+Test+%E2%86%92+Analyze+%E2%86%92+Document+%E2%86%92+Secure"/>
-
-</div>
-
----
-
 <h2 align="center">📂 REPOSITORIES</h2>
 
 <div align="center">
 
-|      Repository     | Focus                                              |
-| :-----------------: | -------------------------------------------------- |
-| 🌐 **Web Security** | Web vulnerabilities, HTTP, OWASP & Burp Suite      |
-|  🛡️ **Pentesting** | Reconnaissance, enumeration & security assessments |
-|     🐧 **Linux**    | Linux fundamentals & security labs                 |
-|  🌐 **Networking**  | TCP/IP, protocols, Nmap & analysis                 |
-|    🐍 **Python**    | Security scripts & automation                      |
-|   📝 **Write-ups**  | Labs, research & lessons learned                   |
+|      Repository     | Focus                                         |
+| :-----------------: | --------------------------------------------- |
+| 🌐 **Web Security** | Web vulnerabilities, HTTP, OWASP & Burp Suite |
+|  🛡️ **Pentesting** | Reconnaissance, enumeration & assessments     |
+|     🐧 **Linux**    | Linux fundamentals & security labs            |
+|  🌐 **Networking**  | TCP/IP, protocols, Nmap & analysis            |
+|    🐍 **Python**    | Security scripts & automation                 |
+|   📝 **Write-ups**  | Labs, research & lessons learned              |
 
 </div>
 
@@ -212,7 +198,11 @@ Utilities
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioZare&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioZare&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=94A3B8"/>
 
@@ -234,47 +224,38 @@ Utilities
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=100&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=Penetration+Tester;Application+Security+Specialist"/>
+### <span style="color:#00E5FF;">🛡️ Penetration Tester</span>
 
-<br><br>
+### <span style="color:#7C3AED;">🌐 Application Security Specialist</span>
 
-I'm working toward becoming a professional **Penetration Tester / Application Security Specialist**, with a focus on identifying, understanding, and reducing security risks.
+<br>
+
+**Building practical skills to identify, understand, and reduce security risks.**
 
 </div>
 
 ---
 
-<h2 align="center">📫 CONNECT WITH ME</h2>
+<h2 align="center">📫 CONNECT</h2>
 
 <div align="center">
 
 <a href="mailto:mario.zare.security@gmail.com">
-
-<img src="https://img.shields.io/badge/mario.zare.security%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=050816&label=EMAIL"/>
-
+<img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
-
-<br><br>
-
-`mario.zare.security@gmail.com`
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00E5FF,100:050816&height=100&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050816,50:00E5FF,100:7C3AED&height=100&section=footer&text=Think%20Like%20an%20Attacker&fontSize=22&fontColor=FFFFFF&animation=twinkling"/>
+### 🔐 Think Like an Attacker.
 
-### <span style="color:#00E5FF;">🔐 Think Like an Attacker.</span>
-
-### <span style="color:#7C3AED;">🛡️ Protect Like a Defender.</span>
-
-<br>
+### 🛡️ Protect Like a Defender.
 
 `Learn` • `Explore` • `Test` • `Secure`
 
 </div>
-
