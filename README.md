@@ -54,20 +54,20 @@ I'm a **Cybersecurity student** focused on developing practical security skills 
 
 <div align="center">
 
-<h2>### 🔐 Security</h2>
+<h2> 🔐 Security</h2>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Nmap-00E5FF?style=for-the-badge&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Wireshark-7C3AED?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"/>
 
-<h2>### 🌐 Web & Networking</h2>
+<h2> 🌐 Web & Networking</h2>
 
 <img src="https://img.shields.io/badge/HTTP%2FHTTPS-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TCP%2FIP-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DNS-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP-7C3AED?style=for-the-badge"/>
 
-<h2>### 🐍 Programming</h2>
+<h2> Programming</h2>
 
 <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=000000"/>
 <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
