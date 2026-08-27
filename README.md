@@ -18,7 +18,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+<h4 align="center">👨‍💻 ABOUT ME</h4>
 
 <div align="center">
 
@@ -36,7 +36,7 @@ My main areas of interest are:
 
 ---
 
-<h2 align="center">⚔️ SECURITY FOCUS</h2>
+<h4 align="center">⚔️ SECURITY FOCUS</h4>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ My main areas of interest are:
 
 ---
 
-<h2 align="center">🛠️ TOOLKIT</h2>
+<h4 align="center">🛠 TOOLKIT</h4>
 
 <div align="center">
 
@@ -77,7 +77,7 @@ My main areas of interest are:
 
 ---
 
-<h2 align="center">🔨 WHAT I'M BUILDING</h2>
+<h4 align="center">🔨 WHAT I'M BUILDING</h4>
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Web Vulnerabilities
 
 <td align="center" width="33%">
 
-### 🛡️
+### 🛡
 
 **Pentesting Projects**
 
@@ -173,14 +173,14 @@ Utilities
 
 ---
 
-<h2 align="center">📂 REPOSITORIES</h2>
+<h4 align="center">📂 REPOSITORIES</h4>
 
 <div align="center">
 
 |      Repository     | Focus                                         |
 | :-----------------: | --------------------------------------------- |
 | 🌐 **Web Security** | Web vulnerabilities, HTTP, OWASP & Burp Suite |
-|  🛡️ **Pentesting** | Reconnaissance, enumeration & assessments     |
+|  🛡 **Pentesting** | Reconnaissance, enumeration & assessments     |
 |     🐧 **Linux**    | Linux fundamentals & security labs            |
 |  🌐 **Networking**  | TCP/IP, protocols, Nmap & analysis            |
 |    🐍 **Python**    | Security scripts & automation                 |
@@ -190,7 +190,7 @@ Utilities
 
 ---
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+<h4 align="center">📊 GITHUB ACTIVITY</h4>
 
 <div align="center">
 
@@ -208,23 +208,14 @@ Utilities
 
 </div>
 
----
-
-<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
 
 ---
 
-<h2 align="center">🚀 CAREER GOAL</h2>
+<h4 align="center">🚀 CAREER GOAL</h4>
 
 <div align="center">
 
-### <span style="color:#00E5FF;">🛡️ Penetration Tester</span>
+### <span style="color:#00E5FF;">🛡 Penetration Tester</span>
 
 ### <span style="color:#7C3AED;">🌐 Application Security Specialist</span>
 
@@ -236,12 +227,12 @@ Utilities
 
 ---
 
-<h2 align="center">📫 CONNECT</h2>
+<h4 align="center">📫 CONNECT</h4>
 
 <div align="center">
 
 <a href="mailto:mario.zare.security@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
 
 </div>
@@ -251,11 +242,5 @@ Utilities
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00E5FF,100:050816&height=100&section=footer"/>
-
-### 🔐 Think Like an Attacker.
-
-### 🛡️ Protect Like a Defender.
-
-`Learn` • `Explore` • `Test` • `Secure`
 
 </div>
