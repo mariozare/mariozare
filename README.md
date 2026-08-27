@@ -1,137 +1,109 @@
-╔══════════════════════════════════════════════╗
-║                                              ║
-║  🌐 Web Security Labs                       ║
-║                                              ║
-║  🛡 Penetration Testing Projects             ║
-║                                              ║
-║  🔎 Vulnerability Assessments                ║
-║                                              ║
-║  🧪 Security Research                        ║
-║                                              ║
-║  📝 Technical Write-ups                      ║
-║                                              ║
-║  🐧 Linux Security Labs                      ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+# Hello, I'm Mario Zare 👋
 
-</div>
+I'm a **Cybersecurity Student** focused on **Web & Application Security, Networking, and Linux**.
 
-Every project is documented around:
-
-<div align="center">
-
-🎯 Objective → 🔎 Recon → 📡 Enumeration → 🧪 Testing → 🔍 Findings → 🛠 Remediation
-
-</div>
+I'm currently building my skills through hands-on labs, security projects, and practical training. My goal is to become a professional **Cybersecurity / Application Security Engineer** and continue developing my skills in penetration testing and defensive security.
 
 ---
 
-<h2 align="center">📂 REPOSITORIES</h2>
+## 🛡️ Cybersecurity Focus
 
-<div align="center">
-
-| Repository Type     | What you'll find                              |
-| ------------------- | --------------------------------------------- |
-| 🌐 Web Security | Web vulnerabilities, HTTP, Burp Suite & OWASP |
-| 🛡 Pentesting  | Reconnaissance, enumeration & assessments     |
-| 🐧 Linux        | Linux commands, labs & security exercises     |
-| 🌐 Networking   | TCP/IP, protocols, Nmap & network analysis    |
-| 🐍 Python       | Security-focused scripts & automation         |
-| 📝 Write-ups    | Labs, findings & lessons learned              |
-
-</div>
+* 🔐 Web Application Security
+* 🌐 Network Security
+* 🐧 Linux
+* 🔎 Vulnerability Assessment
+* 🕵️ Penetration Testing
+* 🌍 API Security
+* 🧪 Security Labs & CTFs
+* 🐍 Python for Security Automation
 
 ---
 
-<h2 align="center">📈 LEARNING JOURNEY</h2>
+## 🔧 Technologies & Tools
 
-<div align="center">
+### Operating Systems
 
-                 ┌───────────────┐
-                 │   NETWORKING  │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │     LINUX     │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │ WEB FUNDAMENTALS│
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  WEB SECURITY │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  PENTESTING   │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │ ADVANCED SEC  │
-                 └───────────────┘
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat\&logo=linux\&logoColor=white)
+![](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat\&logo=kalilinux\&logoColor=white)
 
-</div>
+### Programming
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat\&logo=python\&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat\&logo=javascript\&logoColor=white)
+
+### Security Tools
+
+![](https://img.shields.io/badge/Tool-Burp_Suite-informational?style=flat)
+![](https://img.shields.io/badge/Tool-Nmap-informational?style=flat)
+![](https://img.shields.io/badge/Tool-Wireshark-informational?style=flat)
+
+### Networking
+
+![](https://img.shields.io/badge/Networking-CCNA-informational?style=flat)
+![](https://img.shields.io/badge/Networking-TCP/IP-informational?style=flat)
+![](https://img.shields.io/badge/Networking-DNS-informational?style=flat)
 
 ---
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+## 🧪 What I'm Currently Learning
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MarioZare&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioZare&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioZare&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=94A3B8"/>
-
-</div>
+* Web Application Security
+* API Security
+* Penetration Testing
+* Linux Security
+* Network Security
+* Python for Cybersecurity
+* OWASP methodologies
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+## 🚀 Projects
 
-<div align="center">
+I use this GitHub to document my cybersecurity journey through:
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+* 🔍 Security research
+* 🧪 Penetration testing labs
+* 🌐 Web security projects
+* 🐍 Python security tools
+* 📚 Learning notes & write-ups
+* 🛡️ Security experiments
 
-</div>
-
----
-
-<h2 align="center">🚀 CAREER GOAL</h2>
-
-<div align="center">
-
-### 🛡 Penetration Tester
-
-### 🌐 Application Security Specialist
-
-</div>
-
-My goal is to become a professional Penetration Tester / Application Security Specialist and contribute to real-world security teams.
-
-I'm building my skills through:
-
-Hands-on Labs • Practical Projects • Security Research • Technical Documentation • Continuous Learning
+> All security testing is performed only in authorized labs and environments.
 
 ---
 
-<h2 align="center">📫 CONNECT WITH ME</h2>
+## 📜 Certifications
 
-<div align="center">
+* **Cisco CCNA: Introduction to Networks**
+* **Microsoft Security, Compliance, and Identity Fundamentals**
 
-<a href="mailto:mario.zare.security@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-mario.zare.security%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
 </a>
 
-</div>
+<a href="https://github.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</a>
+
+---
+
+## 🎯 My Goal
+
+> **Learn. Practice. Build. Secure.**
+
+I'm continuously improving my cybersecurity skills and building practical experience with the goal of becoming a highly skilled security professional.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* LinkedIn: Coming soon
+
 
 <br>
 
