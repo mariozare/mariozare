@@ -1,153 +1,138 @@
+╔══════════════════════════════════════════════╗
+║                                              ║
+║  🌐 Web Security Labs                       ║
+║                                              ║
+║  🛡 Penetration Testing Projects             ║
+║                                              ║
+║  🔎 Vulnerability Assessments                ║
+║                                              ║
+║  🧪 Security Research                        ║
+║                                              ║
+║  📝 Technical Write-ups                      ║
+║                                              ║
+║  🐧 Linux Security Labs                      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+
+</div>
+
+Every project is documented around:
+
 <div align="center">
 
-# <span style="color:#00E5FF;">⚡ MARIO ZARE</span>
+🎯 Objective → 🔎 Recon → 📡 Enumeration → 🧪 Testing → 🔍 Findings → 🛠 Remediation
 
-### <span style="color:#7C3AED;">Cybersecurity Student</span>
+</div>
 
-**Web Application Security • Penetration Testing • Networking • Linux**
+---
+
+<h2 align="center">📂 REPOSITORIES</h2>
+
+<div align="center">
+
+| Repository Type     | What you'll find                              |
+| ------------------- | --------------------------------------------- |
+| 🌐 Web Security | Web vulnerabilities, HTTP, Burp Suite & OWASP |
+| 🛡 Pentesting  | Reconnaissance, enumeration & assessments     |
+| 🐧 Linux        | Linux commands, labs & security exercises     |
+| 🌐 Networking   | TCP/IP, protocols, Nmap & network analysis    |
+| 🐍 Python       | Security-focused scripts & automation         |
+| 📝 Write-ups    | Labs, findings & lessons learned              |
+
+</div>
+
+---
+
+<h2 align="center">📈 LEARNING JOURNEY</h2>
+
+<div align="center">
+
+                 ┌───────────────┐
+                 │   NETWORKING  │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     LINUX     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │ WEB FUNDAMENTALS│
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │  WEB SECURITY │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │  PENTESTING   │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │ ADVANCED SEC  │
+                 └───────────────┘
+
+</div>
+
+---
+
+<h2 align="center">📊 GITHUB ACTIVITY</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MarioZare&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioZare&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF"/>
+
+</div>
 
 <br>
 
-`Understand` → `Practice` → `Test` → `Analyze` → `Secure`
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioZare&hide_border=true&background=050816&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=94A3B8"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Who I'm
-
-I'm a **Cybersecurity student** focused on developing practical skills in:
-
-* 🌐 **Web Application Security**
-* 🛡️ **Penetration Testing**
-* 🔎 **Vulnerability Assessment**
-* 🐧 **Linux & Networking**
-
-I learn through **hands-on labs, practical projects, security research, and continuous experimentation.**
-
----
-
-## 🎯 Cybersecurity Focus
-
-| 🌐 Web Security | 🛡️ Pentesting  | 🔎 Vulnerability Assessment | 🐧 Linux            |
-| --------------- | --------------- | --------------------------- | ------------------- |
-| HTTP / HTTPS    | Reconnaissance  | Security Testing            | Command Line        |
-| OWASP Concepts  | Enumeration     | Findings                    | Security Tools      |
-| Burp Suite      | Network Testing | Risk Analysis               | System Fundamentals |
-
----
-
-## 🧪 Hands-On Practice
-
-|     | Experience                               |
-| --- | ---------------------------------------- |
-| 🎓  | **Cybersecurity Diploma — 150 Hours**    |
-| 🧪  | **TryHackMe Hands-On Labs**              |
-| 🔐  | **Practical Cybersecurity Projects**     |
-| 🏢  | **Internship Experience**                |
-| 🛠️ | **Security-Focused Technical Exercises** |
-| 📝  | **Technical Documentation & Write-ups**  |
-
----
-
-## ⚔️ Security Toolkit
-
-### 🔐 Security
-
-`Burp Suite` `Nmap` `Wireshark` `Metasploit`
-
-### 🌐 Web & Networking
-
-`HTTP/HTTPS` `TCP/IP` `DNS` `Nmap` `Linux Networking`
-
-### 🐧 Linux
-
-`Linux CLI` `Bash` `File System` `Permissions`
-
-### 🐍 Programming
-
-`Python` `JavaScript` `C++`
-
----
-
-## 🔨 What I'm Building
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 
-### 🌐 Web Security Labs
-
-### 🛡️ Penetration Testing Projects
-
-### 🔎 Vulnerability Assessments
-
-### 🧪 Security Research
-
-### 📝 Technical Write-ups
-
-### 🐧 Linux Security Labs
-
-### 🐍 Security Automation
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
-My projects focus on understanding **how vulnerabilities work, how they can be discovered in authorized environments, and how they can be properly mitigated.**
-
 ---
 
-## 📂 Repositories
-
-| Repository          | Content                                            |
-| ------------------- | -------------------------------------------------- |
-| 🌐 **Web Security** | Web vulnerabilities, HTTP, Burp Suite & OWASP      |
-| 🛡️ **Pentesting**  | Reconnaissance, enumeration & security assessments |
-| 🐧 **Linux**        | Linux fundamentals, commands & security labs       |
-| 🌐 **Networking**   | TCP/IP, protocols, Nmap & network analysis         |
-| 🐍 **Python**       | Security scripts & automation                      |
-| 📝 **Write-ups**    | Labs, findings & lessons learned                   |
-
----
-
-## 📊 GitHub Activity
+<h2 align="center">🚀 CAREER GOAL</h2>
 
 <div align="center">
 
-<!-- GitHub Stats -->
+### 🛡 Penetration Tester
+
+### 🌐 Application Security Specialist
 
 </div>
 
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<!-- Contribution Snake -->
-
-</div>
-
----
-
-## 🚀 Career Goal
-
-### <span style="color:#00E5FF;">Penetration Tester</span>
-
-### <span style="color:#7C3AED;">Application Security Specialist</span>
-
-My goal is to develop into a professional **Penetration Tester / Application Security Specialist** and contribute to security teams by helping organizations **identify, understand, and reduce security risks.**
+My goal is to become a professional Penetration Tester / Application Security Specialist and contribute to real-world security teams.
 
 I'm building my skills through:
 
-**Hands-on Labs • Practical Projects • Security Research • Technical Documentation • Continuous Learning**
+Hands-on Labs • Practical Projects • Security Research • Technical Documentation • Continuous Learning
 
 ---
 
+<h2 align="center">📫 CONNECT WITH ME</h2>
+
 <div align="center">
 
-## <span style="color:#00E5FF;">🔐 Think Like an Attacker.</span>
-
-## <span style="color:#7C3AED;">🛡️ Protect Like a Defender.</span>
-
-### `Learn` • `Explore` • `Test` • `Secure`
+<a href="mailto:mario.zare.security@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-mario.zare.security%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
 
 </div>
 
+<br>
+
+<div align="center">
